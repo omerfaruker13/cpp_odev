@@ -25,4 +25,4 @@ int main()
 	func(0ULL);
 }
 
-[ödevin cevabı](https://youtu.be/DDYvnqgowUs)
+[ödevin cevabı](https://www.youtube.com/watch?v=Xjl2nA5E_Os)
