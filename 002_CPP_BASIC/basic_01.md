@@ -30,4 +30,4 @@ int main()
 } 
 ```
 
-[ödevin cevabı](https://www.youtube.com/watch?v=DDYvnqgowUs)
+[ödevin cevabı](https://youtu.be/DDYvnqgowUs)
