@@ -6,8 +6,6 @@
 
 
 ```
-//prog5.cpp
-
 #include <iostream>
 
 int main()
